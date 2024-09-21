@@ -1,0 +1,126 @@
+this csv contains all genders," listed at ""List of genders"" wikipedia","in semi alphabetical order because i found more and more and i cant be bothered anymore"
+name,"umbrella","children"
+Abinary,"true","Neutrois Stellarian Maverique Aporagender"
+Abimegender,"false",
+Aesthetgender,"false",
+aliengender,"false",
+astralgender,"false",
+astrumgender,"false",
+Agender,"true","Agenderfluid Gendervoid Libragender Neutrois Polyagender"
+Absgender,"true",":alt_meta-gender"
+Agenderfluid/flux,"false",
+Ambigender,"false",
+Androgyne,"true",":link_non-binary"
+Androgynous,"true",":link_non-binary"
+Aporagender,"true",":link_non-binary:exclude_agender"
+Ashtime,"false",":cultural_Maale"
+Autigender,"false",
+Bakla,"true",":cultural"
+Bigender,"true","Ambigender"
+Binary,"true","female_to_male male_to_female male female man woman "
+Bissu,"false",":cultural_Bugis"
+Bordergender,"false",
+Boggender,"false",
+Butch,"false",
+caelgender,"false",
+Calabai,"false",":cultural_Bugis"
+Calalai,"false",":cultural_Bugis"
+catgender,"false",
+"chūsei ","false",":cultural_japanese"
+Cisgender,"true","man woman"
+contigender,"false",
+cosmicgender,"false",
+cryptogender,"false",
+Demi-boy,"false",
+Demiflux,"false",
+Demigender,"true","demi-boy demi-girl demi-guy demi-man demi-woman demiflux"
+Demi-girl,"false",
+Demi-guy,"false",
+Demi-man,"false",
+Demi-woman,"false",
+dryagender,"false",
+Dual_gender,"false",
+egogender,"false",
+energender,"false",
+ethegender,"false",
+gendervoid,"false",
+niveigender,"false",
+pyrogender,"false",
+robogender,"false",
+staticgender,"false",
+monkeygender,"false",
+Eunuch,"true","hijra neutrois gallae ashtime"
+Fa'afafine,"false",":cultural_Samoan"
+fakaleiti,"false",":cultural_Tongan"
+Female,"true","butch demi-girl demi-woman butch fa'afafine femme male_to_female woman transfeminine woman_of_trans_experience"
+Femme,"false",
+Female_to_male,"false",
+Fluidflux,"false",
+Gallae,"false",
+Gender_bender,"false","genderfuck"
+Gender_diverse,"true","transgender non-binary cisgender"
+Gender_gifted,"true",":alt_""gender_diverse"""
+Genderfae/Genderdoe,"false",
+Genderfluid,"true","genderflux demiflux"
+Genderflux,"true","fluidflux"
+Genderfuck,"true","gender_bender"
+Genderless,"true",":link_agender :alt_agender"
+Gender_nonconforming,"true","butch :link_""gender_bender"""
+Genderqueer,"true",":link_non-binary"
+Gender_questioning,"false",
+Gendervague,"false",
+Gender_variant,"true",":alt_""gender_diverse"""
+Gendervoid,"true",":link_agender : alt_agender"
+Greygender,"false",
+Hijra,"false",":cultural_india_pakistan_bangladesh"
+Intergender,"true",":alt_non-binary"
+Intersex,"true","ipsogender"
+Ipsogender,"false",
+Isogender,"true",":alt_meta-gender"
+Kathoey,"false",":cultural_thai"
+Libragender,"false",
+Māhū,"false",":cultural_hawaii_tahiti"
+makkunrai,"false",":cultural_Bugis"
+Male,"true","man transmasculine man_of_trans_experience oroané calalai"
+Male_to_female,"false",
+Man,"false",
+Man_of_trans_experience,"false",
+Maverique,"false",
+Meta-gender,"true","non-binary"
+Multigender,"true","bigender trigender polygender pangender genderfluid androgyne"
+musei,"false",":cultural_japanese"
+Muxe,"false",":cultural_zapotec"
+Neurogender,"true","autigender bordergender skhizeingender genderbague pendogender"
+Neutrois,"false",
+Non-Binary,"true","Abinary Omnigender Pangender Polyagender polygender transfeminine transmasculine trigender multigender maverique libragender Agender agenderfluid/fluxgender ambigender bigender demi-boy demiflux demigender demi-girl demi-guy demi-man demi-woman dual_gender fluidflux gender_bender genderfae/genderdoe genderfluid genderflux genderfuck genderless gendervague gendervoid greygender multigender neutrois omnigender pangender person_of_trans_experience polyagender polygender trigender stellarian neurogender xenogender"
+Omnigender,"false",
+Oroané,"false",":cultural_Bugis"
+Pangender,"false",
+Pendogender,"false",
+Person_of_trans_experience,"false",
+Polyagender,"false",
+Polygender,"false",
+Queer,"true",":all_"
+ryōsei,"false",":cultural_japanese"
+Sekhet,"false",":cultural_""ancient_egypt"""
+Skhizeingender,"false",
+Stellarian,"false",
+Third gender,"true",":all_cultural non-binary"
+Transgender,"true",":link_""gender_diverse"""
+Transfeminine,"true",":link_female"
+Transmasculine,"true",":link_male"
+Transsexual,"true",":link_transgender"
+Travesti,"false",":cultural_""latin_america"""
+Trigender,"false",
+Tumtum,"false",":cultural_jewish"
+Two spirit,"true",":cultural_""native_american"""
+Vakasalewalewa,"false",":cultural_Fiji"
+Waria,"false",":cultural_indonesian"
+Winkte,"false",":cultural_lakota"
+Woman,"false",
+Woman_of_trans_experience,"false",
+X-gender,"true",":cultural_japanese ryōsei chūsei musei"
+X-jendā,"true",":alt_x-gender"
+Xenogender,"true","abimegender aesthetgender aliengender astralgender astrumgender boggender caelgender catgender contigender cosmicgender cryptogender dryagender egogender energender ethegender gendervoid niveigender pyrogender robogender staticgender monkeygender"
+source:,"wikipedia nonbinary.wiki","lgbtqia.wiki"
+"classifiers: :cultural_origin - signifies a cultural genderidentity, origin defines from which culture",":link_target - all children of target, stack targets with _; :alt_target - used to equate identities to other identities",":exclude_target - dont include target in :link, stack targets with _ ; :all_target - links to all "":expression"" target."
